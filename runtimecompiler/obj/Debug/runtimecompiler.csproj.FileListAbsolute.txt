@@ -1,0 +1,14 @@
+C:\Users\Joshua\source\repos\runtimecompiler\runtimecompiler\bin\Debug\runtimecompiler.exe.config
+C:\Users\Joshua\source\repos\runtimecompiler\runtimecompiler\bin\Debug\runtimecompiler.exe
+C:\Users\Joshua\source\repos\runtimecompiler\runtimecompiler\bin\Debug\runtimecompiler.pdb
+C:\Users\Joshua\source\repos\runtimecompiler\runtimecompiler\obj\Debug\runtimecompiler.csprojAssemblyReference.cache
+C:\Users\Joshua\source\repos\runtimecompiler\runtimecompiler\obj\Debug\runtimecompiler.csproj.CoreCompileInputs.cache
+C:\Users\Joshua\source\repos\runtimecompiler\runtimecompiler\obj\Debug\runtimecompiler.exe
+C:\Users\Joshua\source\repos\runtimecompiler\runtimecompiler\obj\Debug\runtimecompiler.pdb
+C:\Users\Joshua\source\repos\NET\runtimecompiler\runtimecompiler\bin\Debug\runtimecompiler.exe.config
+C:\Users\Joshua\source\repos\NET\runtimecompiler\runtimecompiler\bin\Debug\runtimecompiler.exe
+C:\Users\Joshua\source\repos\NET\runtimecompiler\runtimecompiler\bin\Debug\runtimecompiler.pdb
+C:\Users\Joshua\source\repos\NET\runtimecompiler\runtimecompiler\obj\Debug\runtimecompiler.csprojAssemblyReference.cache
+C:\Users\Joshua\source\repos\NET\runtimecompiler\runtimecompiler\obj\Debug\runtimecompiler.csproj.CoreCompileInputs.cache
+C:\Users\Joshua\source\repos\NET\runtimecompiler\runtimecompiler\obj\Debug\runtimecompiler.exe
+C:\Users\Joshua\source\repos\NET\runtimecompiler\runtimecompiler\obj\Debug\runtimecompiler.pdb
